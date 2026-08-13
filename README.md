@@ -21,7 +21,7 @@
 
 ### 🔭 About Me
 
-- 🎓 Currently pursuing my Bachelor's in **Computer Engineering** at UFC (Expected Graduation: 2029)[cite: 1].
+- 🎓 Currently pursuing my Bachelor's in **Computer Engineering** at UFC (Expected Graduation: 2029).
 - 🎯 Seeking **Scientific Initiation Opportunities (PIBIC/BICT)** focused on Applied AI, Edge Computing (AIoT), and Network Intrusion/Anomaly Detection.
 - 💡 Passionate about low-level memory efficiency, network protocol auditing, and building real-time log detection & security tooling.
 - 🧠 Former member of the **Competitive Programming Study Group (GEPC - UFC)**, honing algorithms and memory optimization in C/C++.
