@@ -15,7 +15,7 @@
 <br />
 
 ⚡ **Computer Engineering Student (4th Semester) @ Universidade Federal do Ceará (UFC)**  
-🔬 Focus: **AIoT, Network Security, Edge Computing, and Systems Engineering**
+🔬 Focus: **AIoT, Network Security, Blue Teaming, and Systems Engineering**
 
 ---
 
