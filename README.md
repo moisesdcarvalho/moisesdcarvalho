@@ -82,7 +82,3 @@
 <div align="center">
   <sub>Designed with precision. Open for academic research and collaborative engineering projects!</sub>
 </div>
-
-<div align="center">
-  <sub>Designed with precision. Open for academic research and collaborative engineering projects!</sub>
-</div>
