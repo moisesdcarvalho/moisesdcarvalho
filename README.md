@@ -32,13 +32,13 @@
 ### 🛠️ Tech Stack & Tooling
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" alt="C" />
-  <img src="[https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" alt="C++" />
-  <img src="[https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
-  <img src="[https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux" />
-  <img src="[https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgreSQL" />
-  <img src="[https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="MySQL" />
-  <img src="[https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 ---
@@ -47,26 +47,26 @@
 
 #### 🛡️ [Multi-Threaded Network Scanner & Port Validator](https://github.com/moisesdcarvalho)
 > **Python / Networking / Concurrency**
-- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing[cite: 1].
-- Implemented client-server socket architecture to assess network attack surfaces, foundational for IDS/IPS systems[cite: 1].
+- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing.
+- Implemented client-server socket architecture to assess network attack surfaces, foundational for IDS/IPS systems.
 
 #### 📊 [Automated Log Analyzer & Anomaly Mapping Engine](https://github.com/moisesdcarvalho)
 > **Python / Log Forensics / Data Pipelines**
-- Developed an automated log parsing tool for extracting metrics and identifying anomalous traffic signatures[cite: 1].
-- Designed structured telemetry data streams ready for integration into Machine Learning pipelines[cite: 1].
+- Developed an automated log parsing tool for extracting metrics and identifying anomalous traffic signatures.
+- Designed structured telemetry data streams ready for integration into Machine Learning pipelines.
 
 #### ⚡ [Physics & Electromagnetic Computational Models](https://github.com/moisesdcarvalho)
 > **C++ / Python / Analytical Modeling**
-- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behavior[cite: 1].
-- Built foundational analytical routines essential for edge-device processing and electronic instrumentation[cite: 1].
+- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behavior.
+- Built foundational analytical routines essential for edge-device processing and electronic instrumentation.
 
 ---
 
 ### 📜 Certifications & Practical Labs
 
-- 🌐 **Networking Essentials** — *Cisco Networking Academy*[cite: 1]
-- 🛡️ **Introduction to Cybersecurity** — *Cisco Networking Academy*[cite: 1]
-- 🎯 **Security & Infrastructure Practical Labs** — *TryHackMe* (Linux Admin, Nmap/NSE, Traffic Analysis, Incident Response)[cite: 1]
+- 🌐 **Networking Essentials** — *Cisco Networking Academy*
+- 🛡️ **Introduction to Cybersecurity** — *Cisco Networking Academy*
+- 🎯 **Security & Infrastructure Practical Labs** — *TryHackMe* (Linux Admin, Nmap/NSE, Traffic Analysis, Incident Response)
 
 ---
 
@@ -78,6 +78,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <sub>Designed with precision. Open for academic research and collaborative engineering projects!</sub>
+</div>
 
 <div align="center">
   <sub>Designed with precision. Open for academic research and collaborative engineering projects!</sub>
