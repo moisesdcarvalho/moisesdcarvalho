@@ -1,4 +1,4 @@
-# Hi there, I'm Moisés Carvalho! 👋
+# Hi there, I'm Moisés de Carvalho! 👋
 
 <div align="left">
   <a href="https://linkedin.com/in/moisesdcarvalho" target="_blank">
@@ -22,9 +22,9 @@
 ### 🔭 About Me
 
 - 🎓 Currently pursuing my Bachelor's in **Computer Engineering** at UFC (Expected Graduation: 2029).
-- 🎯 Seeking **Scientific Initiation Opportunities (PIBIC/BICT)** focused on Applied AI, Edge Computing (AIoT), and Network Intrusion/Anomaly Detection.
+- 🎯 Seeking **Scientific Initiation Opportunities (PIBIC/BICT)** focused on Applied AI, IoT (especially AIoT), and Network Intrusion/Anomaly Detection.
 - 💡 Passionate about low-level memory efficiency, network protocol auditing, and building real-time log detection & security tooling.
-- 🧠 Former member of the **Competitive Programming Study Group (GEPC - UFC)**, honing algorithms and memory optimization in C/C++.
+- 🧠 Former member of the **Competitive Programming Study Group (GEPC - UFC)**, honing algorithms and memory optimisation in C/C++.
 - 🌐 Advanced English Proficiency (**C1 level**).
 
 ---
@@ -49,7 +49,7 @@
 
 #### 🛡️ [Multi-Threaded Network Scanner & Port Validator](https://github.com/moisesdcarvalho)
 > **Python / Networking / Concurrency**
-- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing[cite: 1].
+- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing.
 - Implemented client-server socket architecture to assess network attack surfaces, foundational for IDS/IPS systems.
 
 #### 📊 [Automated Log Analyzer & Anomaly Mapping Engine](https://github.com/moisesdcarvalho)
@@ -59,7 +59,7 @@
 
 #### ⚡ [Physics & Electromagnetic Computational Models](https://github.com/moisesdcarvalho)
 > **C++ / Python / Analytical Modeling**
-- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behavior.
+- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behaviour.
 - Built foundational analytical routines essential for edge-device processing and electronic instrumentation.
 
 ---
