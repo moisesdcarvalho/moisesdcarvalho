@@ -21,11 +21,11 @@
 
 ### 🔭 About Me
 
-- 🎓 Currently pursuing my Bachelor's in **Computer Engineering** at UFC (Expected Graduation: 2029).
-- 🎯 Seeking **Scientific Initiation Opportunities (PIBIC/BICT)** focused on Applied AI, Edge Computing (AIoT), and Network Intrusion/Anomaly Detection.
-- 💡 Passionate about low-level memory efficiency, network protocol auditing, and building real-time log detection & security tooling.
-- 🧠 Former member of the **Competitive Programming Study Group (GEPC - UFC)**, honing algorithms and memory optimization in C/C++.
-- 🌐 Advanced English Proficiency (**C1 level**).
+- 🎓 Currently pursuing my Bachelor's in **Computer Engineering** at UFC (Expected Graduation: 2029)[cite: 1].
+- 🎯 Seeking **Scientific Initiation Opportunities (PIBIC/BICT)** focused on Applied AI, Edge Computing (AIoT), and Network Intrusion/Anomaly Detection[cite: 1].
+- 💡 Passionate about low-level memory efficiency, network protocol auditing, and building real-time log detection & security tooling[cite: 1].
+- 🧠 Former member of the **Competitive Programming Study Group (GEPC - UFC)**, honing algorithms and memory optimization in C/C++[cite: 1].
+- 🌐 Advanced English Proficiency (**C1 level**)[cite: 1].
 
 ---
 
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -48,26 +49,26 @@
 
 #### 🛡️ [Multi-Threaded Network Scanner & Port Validator](https://github.com/moisesdcarvalho)
 > **Python / Networking / Concurrency**
-- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing.
-- Implemented client-server socket architecture to assess network attack surfaces, foundational for IDS/IPS systems.
+- Built a multi-threaded Python application for rapid TCP port scanning and service security auditing[cite: 1].
+- Implemented client-server socket architecture to assess network attack surfaces, foundational for IDS/IPS systems[cite: 1].
 
 #### 📊 [Automated Log Analyzer & Anomaly Mapping Engine](https://github.com/moisesdcarvalho)
 > **Python / Log Forensics / Data Pipelines**
-- Developed an automated log parsing tool for extracting metrics and identifying anomalous traffic signatures.
-- Designed structured telemetry data streams ready for integration into Machine Learning pipelines.
+- Developed an automated log parsing tool for extracting metrics and identifying anomalous traffic signatures[cite: 1].
+- Designed structured telemetry data streams ready for integration into Machine Learning pipelines[cite: 1].
 
 #### ⚡ [Physics & Electromagnetic Computational Models](https://github.com/moisesdcarvalho)
 > **C++ / Python / Analytical Modeling**
-- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behavior.
-- Built foundational analytical routines essential for edge-device processing and electronic instrumentation.
+- Implemented mathematical and electromagnetic propagation solvers to study high-frequency signal behavior[cite: 1].
+- Built foundational analytical routines essential for edge-device processing and electronic instrumentation[cite: 1].
 
 ---
 
 ### 📜 Certifications & Practical Labs
 
-- 🌐 **Networking Essentials** — *Cisco Networking Academy*
-- 🛡️ **Introduction to Cybersecurity** — *Cisco Networking Academy*
-- 🎯 **Security & Infrastructure Practical Labs** — *TryHackMe* (Linux Admin, Nmap/NSE, Traffic Analysis, Incident Response)
+- 🌐 **Networking Essentials** — *Cisco Networking Academy*[cite: 1]
+- 🛡️ **Introduction to Cybersecurity** — *Cisco Networking Academy*[cite: 1]
+- 🎯 **Security & Infrastructure Practical Labs** — *TryHackMe* (Linux Admin, Nmap/NSE, Traffic Analysis, Incident Response)[cite: 1]
 
 ---
 
